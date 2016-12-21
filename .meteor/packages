@@ -68,7 +68,6 @@ xolvio:cleaner
 dispatch:mocha-phantomjs
 practicalmeteor:chai
 practicalmeteor:sinon
-practicalmeteor:mocha
 hwillson:stub-collections
 johanbrook:publication-collector
 shell-server@0.2.1
@@ -76,5 +75,5 @@ dburles:factory
 
 # security
 audit-argument-checks@1.0.7
-lmieulet:meteor-coverage
 practicalmeteor:mocha-console-runner
+practicalmeteor:mocha-blanket
